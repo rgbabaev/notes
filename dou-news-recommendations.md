@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Рекорд вакансій в 🇺🇦 ІТ | Новеньке від Ecoflow | ChatGPT асистент в авто? — DOU News#163](https://www.youtube.com/watch?v=Jl5siwqAj_s)
+
+- https://www.anker.com/eu-en/products/a2343-100w-usb-c-charger?variant=42948718133438
+- https://github.com/harsxv/tinystatus?tab=readme-ov-file
+
 ## [Що з Дуровим та Telegram | Ріст ІТ-експорту | Notion припиняє роботу в росії — DOU News #162](https://www.youtube.com/watch?v=E75BCKXTlKg)
 
 - https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial
