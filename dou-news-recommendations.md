@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Новий реліз від Apple | Портрет 🇺🇦 айтівця  | Хто вийшов з російського ринку — DOU News #164](https://www.youtube.com/watch?v=Sbx-YfApfVE)
+
+- Kindle Oasis 10th Gen
+- гра Astro Bot
+
 ## [Рекорд вакансій в 🇺🇦 ІТ | Новеньке від Ecoflow | ChatGPT асистент в авто? — DOU News#163](https://www.youtube.com/watch?v=Jl5siwqAj_s)
 
 - https://www.anker.com/eu-en/products/a2343-100w-usb-c-charger?variant=42948718133438
