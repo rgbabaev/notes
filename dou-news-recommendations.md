@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Telegram заборонили | Скорочення в ІТ-гігантів | Атомна станція для Microsoft — DOU News #165](https://www.youtube.com/watch?v=qYcoAdCiP94)
+
+- https://github.com/osquery/osquery
+- Серіал The Bear
+
 ## [Новий реліз від Apple | Портрет 🇺🇦 айтівця  | Хто вийшов з російського ринку — DOU News #164](https://www.youtube.com/watch?v=Sbx-YfApfVE)
 
 - Kindle Oasis 10th Gen
