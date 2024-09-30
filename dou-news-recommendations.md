@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [ШІ-рекрутери близько | ФОПів стає менше | Драма навколо WordPress — DOU News #166](https://www.youtube.com/watch?v=EX5a-5S-56M)
+
+- Настільна гра Саграда (Sagrada РОС)
+- CLI для передачі файлів, ключів та іншого https://magic-wormhole.readthedocs.io/en/latest/welcome.html#example
+
 ## [Telegram заборонили | Скорочення в ІТ-гігантів | Атомна станція для Microsoft — DOU News #165](https://www.youtube.com/watch?v=qYcoAdCiP94)
 
 - https://github.com/osquery/osquery
