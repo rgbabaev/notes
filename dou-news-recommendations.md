@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Розформування ІТ-частин в ЗСУ | Економічне бронювання буде | ІТ-експорт падає — DOU News #167](https://www.youtube.com/watch?v=Ui7y_uyIlyk)
+
+- стаття про створення QR кодів https://kylezhe.ng/posts/crafting_qr_codes
+- застосунок Reader https://elevenlabs.io/text-reader
+
 ## [ШІ-рекрутери близько | ФОПів стає менше | Драма навколо WordPress — DOU News #166](https://www.youtube.com/watch?v=EX5a-5S-56M)
 
 - Настільна гра Саграда (Sagrada РОС)
