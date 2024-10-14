@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Що буде з бронюванням | росія заблокувала Discord | Кібертаксі від Tesla  — DOU News #168](https://www.youtube.com/watch?v=FbWPlyy3ubk)
+
+- Плагін https://plugins.jetbrains.com/plugin/9792-key-promoter-x
+- Віртуальний монітор https://github.com/Stengo/DeskPad
+
 ## [Розформування ІТ-частин в ЗСУ | Економічне бронювання буде | ІТ-експорт падає — DOU News #167](https://www.youtube.com/watch?v=Ui7y_uyIlyk)
 
 - стаття про створення QR кодів https://kylezhe.ng/posts/crafting_qr_codes
