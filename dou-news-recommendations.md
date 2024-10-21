@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Баг в Резерв+ | mono запускає маркетплейс | Google та Amazon будують ядерні реактори — DOU News #169](https://www.youtube.com/watch?v=l9K7j_aZkkA)
+
+- рейтинг 100 найкращих ігор https://www.pcgamer.com/games/the-top-100-pc-games-2024/#section-100-91
+- сервіс https://rankit.no/
+
 ## [Що буде з бронюванням | росія заблокувала Discord | Кібертаксі від Tesla  — DOU News #168](https://www.youtube.com/watch?v=FbWPlyy3ubk)
 
 - Плагін https://plugins.jetbrains.com/plugin/9792-key-promoter-x
