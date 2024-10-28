@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Linux без росіян | скорочення в airSlate | новинки ШІ  — DOU News #170](https://www.youtube.com/watch?v=wMY08WNG6OE)
+
+- Factorio Space Age https://store.steampowered.com/app/645390/Factorio_Space_Age
+- Доповнення для Chrome Vimium https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
+
 ## [Баг в Резерв+ | mono запускає маркетплейс | Google та Amazon будують ядерні реактори — DOU News #169](https://www.youtube.com/watch?v=l9K7j_aZkkA)
 
 - рейтинг 100 найкращих ігор https://www.pcgamer.com/games/the-top-100-pc-games-2024/#section-100-91
