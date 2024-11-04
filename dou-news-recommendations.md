@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Python — найпопулярніша мова | Новинки Apple та GitHub | Чекаємо на S.T.A.L.K.E.R. 2 — DOU News #171](https://www.youtube.com/watch?v=kgJRQURe0i0)
+
+- Fantastical https://www.theverge.com/2024/10/29/24282304/fantastical-windows-calendar-app
+- Static site generator https://rochacbruno.github.io/marmite/index.html
+
 ## [Linux без росіян | скорочення в airSlate | новинки ШІ  — DOU News #170](https://www.youtube.com/watch?v=wMY08WNG6OE)
 
 - Factorio Space Age https://store.steampowered.com/app/645390/Factorio_Space_Age
