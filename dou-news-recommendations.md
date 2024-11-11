@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Вакансій стає більше | EPAM знову наймають | Домен за $15 млн для OpenАІ — DOU News #172](https://www.youtube.com/watch?v=bw41fmSFZL4)
+
+- Реальна історія українських грошей https://www.youtube.com/watch?v=cVGHy9i8_1s
+- Arcane TV Series
+
 ## [Python — найпопулярніша мова | Новинки Apple та GitHub | Чекаємо на S.T.A.L.K.E.R. 2 — DOU News #171](https://www.youtube.com/watch?v=kgJRQURe0i0)
 
 - Fantastical https://www.theverge.com/2024/10/29/24282304/fantastical-windows-calendar-app
