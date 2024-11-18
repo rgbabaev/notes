@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Нові правила бронювання | Скорочення в MacPaw | Український аналог Upwork — DOU News #173](https://www.youtube.com/watch?v=v7JwkJWEPSA)
+
+- I don`t have Spotify https://idonthavespotify.donado.co/
+- Wargames  https://overthewire.org/wargames/bandit/bandit0.html
+
 ## [Вакансій стає більше | EPAM знову наймають | Домен за $15 млн для OpenАІ — DOU News #172](https://www.youtube.com/watch?v=bw41fmSFZL4)
 
 - Реальна історія українських грошей https://www.youtube.com/watch?v=cVGHy9i8_1s
