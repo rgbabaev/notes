@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [ІТ-експорт зростає 📈 Закон про податки підписано📝 Яка ІТ-компанія заробляє найбільше — DOU News #175](https://www.youtube.com/watch?v=U5mG00te2eE)
+
+- REWISH https://rewish.io/welcome
+- Gartner https://www.gartner.com/en/articles/top-technology-trends-2025
+
 ## [Що буде із законом про податки?   | Скорочення в RIA.com | Продажі S.T.A.L.K.E.R. 2 — DOU News&nbsp;#174](https://www.youtube.com/watch?v=TBxNvzPAoEw)
 
 - GeForce Now
