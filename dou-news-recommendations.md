@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Знову скорочення у Reface | Новий рекорд Bitcoin | «Адвент календар» OpenAI — DOU News #176](https://www.youtube.com/watch?v=2w1tkzlMlgs)
+
+- DuckDB https://duckdb.org/
+- Every UUID https://everyuuid.com/
+
 ## [ІТ-експорт зростає 📈 Закон про податки підписано📝 Яка ІТ-компанія заробляє найбільше — DOU News #175](https://www.youtube.com/watch?v=U5mG00te2eE)
 
 - REWISH https://rewish.io/welcome
