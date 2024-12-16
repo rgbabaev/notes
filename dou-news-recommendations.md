@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Підсумки року на ІТ-ринку праці  | Посилення перевірок ФОП | Новинки Google — DOU News #177](https://www.youtube.com/watch?v=TBV846NlHbA)
+
+- wg-easy https://github.com/wg-easy/wg-easy
+- Devtoys https://devtoys.app
+
 ## [Знову скорочення у Reface | Новий рекорд Bitcoin | «Адвент календар» OpenAI — DOU News #176](https://www.youtube.com/watch?v=2w1tkzlMlgs)
 
 - DuckDB https://duckdb.org/
