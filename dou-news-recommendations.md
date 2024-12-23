@@ -2,7 +2,12 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
-## [Підсумки року на ІТ-ринку праці  | Посилення перевірок ФОП | Новинки Google — DOU News #177](https://www.youtube.com/watch?v=TBV846NlHbA)
+## [Кібератака на&nbsp;держреєстри | Новий CEO Grammarly | АІ-система NVIDIA — DOU News #178](https://www.youtube.com/watch?v=lpk9rukut2M)
+
+- Мапа github https://anvaka.github.io/map-of-github/#2.93/8.95/-1.71
+- 5 статей з блогу Coda https://arc.net/folder/BEB4FC6A-D127-423A-990C-825B1986E276
+
+## [Підсумки року на ІТ-ринку праці | Посилення перевірок ФОП | Новинки Google — DOU News #177](https://www.youtube.com/watch?v=TBV846NlHbA)
 
 - wg-easy https://github.com/wg-easy/wg-easy
 - Devtoys https://devtoys.app
@@ -17,7 +22,7 @@
 - REWISH https://rewish.io/welcome
 - Gartner https://www.gartner.com/en/articles/top-technology-trends-2025
 
-## [Що буде із законом про податки?   | Скорочення в RIA.com | Продажі S.T.A.L.K.E.R. 2 — DOU News&nbsp;#174](https://www.youtube.com/watch?v=TBxNvzPAoEw)
+## [Що буде із законом про податки? | Скорочення в RIA.com | Продажі S.T.A.L.K.E.R. 2 — DOU News&nbsp;#174](https://www.youtube.com/watch?v=TBxNvzPAoEw)
 
 - GeForce Now
 - IMG_0001 https://walzr.com/IMG_0001
@@ -37,7 +42,7 @@
 - Fantastical https://www.theverge.com/2024/10/29/24282304/fantastical-windows-calendar-app
 - Static site generator https://rochacbruno.github.io/marmite/index.html
 
-## [Linux без росіян | скорочення в airSlate | новинки ШІ  — DOU News #170](https://www.youtube.com/watch?v=wMY08WNG6OE)
+## [Linux без росіян | скорочення в airSlate | новинки ШІ — DOU News #170](https://www.youtube.com/watch?v=wMY08WNG6OE)
 
 - Factorio Space Age https://store.steampowered.com/app/645390/Factorio_Space_Age
 - Доповнення для Chrome Vimium https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
@@ -47,7 +52,7 @@
 - рейтинг 100 найкращих ігор https://www.pcgamer.com/games/the-top-100-pc-games-2024/#section-100-91
 - сервіс https://rankit.no/
 
-## [Що буде з бронюванням | росія заблокувала Discord | Кібертаксі від Tesla  — DOU News #168](https://www.youtube.com/watch?v=FbWPlyy3ubk)
+## [Що буде з бронюванням | росія заблокувала Discord | Кібертаксі від Tesla — DOU News #168](https://www.youtube.com/watch?v=FbWPlyy3ubk)
 
 - Плагін https://plugins.jetbrains.com/plugin/9792-key-promoter-x
 - Віртуальний монітор https://github.com/Stengo/DeskPad
@@ -67,7 +72,7 @@
 - https://github.com/osquery/osquery
 - Серіал The Bear
 
-## [Новий реліз від Apple | Портрет 🇺🇦 айтівця  | Хто вийшов з російського ринку — DOU News #164](https://www.youtube.com/watch?v=Sbx-YfApfVE)
+## [Новий реліз від Apple | Портрет 🇺🇦 айтівця | Хто вийшов з російського ринку — DOU News #164](https://www.youtube.com/watch?v=Sbx-YfApfVE)
 
 - Kindle Oasis 10th Gen
 - гра Astro Bot
