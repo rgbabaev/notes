@@ -1,6 +1,10 @@
 # DOU News recommendations collection
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
+## [Відновлення реєстрів | Угода Київстар зі Starlink | Запуск бета-тесту Revolut — DOU News #179](https://www.youtube.com/watch?v=BrD8xGx3TMs)
+
+- Cursor https://www.cursor.com
+- The Economist https://www.economist.com/interactive/christmas-specials/2024/12/21/the-chart-of-everything
 
 ## [Кібератака на&nbsp;держреєстри | Новий CEO Grammarly | АІ-система NVIDIA — DOU News #178](https://www.youtube.com/watch?v=lpk9rukut2M)
 
