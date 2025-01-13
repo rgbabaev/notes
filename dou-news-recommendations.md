@@ -1,6 +1,12 @@
 # DOU News recommendations collection
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
+
+## [ChatGPT йде в мінус | російського провайдера зламали | Meta підіграє Трампу — DOU News #180](https://www.youtube.com/watch?v=vC7SBgPQ4yc)
+
+- Stimulation clicker https://neal.fun/stimulation-clicker/
+- Operating System in 1,000 Lines https://operating-system-in-1000-lines.vercel.app/en/
+
 ## [Відновлення реєстрів | Угода Київстар зі Starlink | Запуск бета-тесту Revolut — DOU News #179](https://www.youtube.com/watch?v=BrD8xGx3TMs)
 
 - Cursor https://www.cursor.com
