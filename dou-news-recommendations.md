@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Зарплата в ІТ впала | Українці перемогли у хакатоні NASA | N-iX відкрились в Індії — DOU News #181](https://www.youtube.com/watch?v=yWwxpbYjaN0)
+
+- Ddatalemur https://datalemur.com/sql-game/level1.html
+- Tuple https://tuple.app/
+
 ## [ChatGPT йде в мінус | російського провайдера зламали | Meta підіграє Трампу — DOU News #180](https://www.youtube.com/watch?v=vC7SBgPQ4yc)
 
 - Stimulation clicker https://neal.fun/stimulation-clicker/
