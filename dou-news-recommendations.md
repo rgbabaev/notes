@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Чому Київстар купує Uklon | Як працюватиме Е-консул | Які укази підписав Трамп — DOU News #182](https://www.youtube.com/watch?v=o9TkmOLRea8)
+
+- Data engineer handbook https://github.com/DataExpert-io/data-engineer-handbook?tab=readme-ov-file
+- Ден Еріель https://www.youtube.com/watch?v=wfcro5iM5vw
+
 ## [Зарплата в ІТ впала | Українці перемогли у хакатоні NASA | N-iX відкрились в Індії — DOU News #181](https://www.youtube.com/watch?v=yWwxpbYjaN0)
 
 - Ddatalemur https://datalemur.com/sql-game/level1.html
