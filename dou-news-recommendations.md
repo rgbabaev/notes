@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Скільки айтівців воює | Як зміниться ВЛК | Чи здолає DeepSeek GPT — DOU News #183](https://www.youtube.com/watch?v=OOwCt6TGw48)
+
+- NVIDIA CEO Jensen Huang's Vision for the Future https://www.youtube.com/watch?v=7ARBJQn6QkM
+- Linear’s secret to building beloved B2B products https://www.youtube.com/watch?v=nTr21kgCFF4
+
 ## [Чому Київстар купує Uklon | Як працюватиме Е-консул | Які укази підписав Трамп — DOU News #182](https://www.youtube.com/watch?v=o9TkmOLRea8)
 
 - Data engineer handbook https://github.com/DataExpert-io/data-engineer-handbook?tab=readme-ov-file
