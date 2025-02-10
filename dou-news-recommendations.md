@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Розробка української LLM | Рекорд вакансій з 2022 року | Перегони OpenAI та DeepSeek — DOU News #184](https://www.youtube.com/watch?v=GZRkL3Uj0BY)
+
+- OpenRouter https://openrouter.ai/
+- Настільна гра Steps
+
 ## [Скільки айтівців воює | Як зміниться ВЛК | Чи здолає DeepSeek GPT — DOU News #183](https://www.youtube.com/watch?v=OOwCt6TGw48)
 
 - NVIDIA CEO Jensen Huang's Vision for the Future https://www.youtube.com/watch?v=7ARBJQn6QkM
