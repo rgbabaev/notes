@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Чи скасує НБУ ліміти | Яка мова найпопулярніша | Revolut доступний в Україні — DOU News #185](https://www.youtube.com/watch?v=Au0ZkAQr5Ls)
+
+- Deep Dive into LLMs like ChatGPT https://www.youtube.com/watch?v=7xTGNNLPyMI 
+- Calculating Empires https://calculatingempires.net/?pos=43445.76,8725.00,13.4320
+
 ## [Розробка української LLM | Рекорд вакансій з 2022 року | Перегони OpenAI та DeepSeek — DOU News #184](https://www.youtube.com/watch?v=GZRkL3Uj0BY)
 
 - OpenRouter https://openrouter.ai/
