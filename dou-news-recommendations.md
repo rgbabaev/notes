@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Найкращі ІТ-компанії України | Вихід Netcracker з рф | Новий iPhone 16e — DOU News #186](https://www.youtube.com/watch?v=Tr41h9FEWJ0)
+
+- Сitywalki https://www.citywalki.com
+- AI Can Write Code But Lacks Engineer's Instinct, OpenAI Study Finds https://arxiv.org/pdf/2502.12115
+
 ## [Чи скасує НБУ ліміти | Яка мова найпопулярніша | Revolut доступний в Україні — DOU News #185](https://www.youtube.com/watch?v=Au0ZkAQr5Ls)
 
 - Deep Dive into LLMs like ChatGPT https://www.youtube.com/watch?v=7xTGNNLPyMI 
