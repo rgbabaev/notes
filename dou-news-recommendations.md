@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Signal ігнорує 🇺🇦 правоохоронців | Маск VS Україна | ШІ відмовляється писати код — DOU News #189](https://www.youtube.com/watch?v=g8CrKN_mVzI)
+
+- Xlskubectl https://github.com/learnk8s/xlskubectl
+- Відео To Scale: TIME https://www.youtube.com/watch?v=nOVvEbH2GC0
+
 ## [Падіння ІТ-експорту | Роспропаганда в чат-ботах на ШІ | Новини від Apple — DOU News #188](https://www.youtube.com/watch?v=GUJGuNOVlVs)
 
 - Збір на Kickstarter від Peak Design: https://www.kickstarter.com/projects/peak-design/roller-pro-carry-on-luggage-by-peak-design
