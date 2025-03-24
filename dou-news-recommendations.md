@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Тестування цифрової гривні | ШІ-коментарі в Instagram | $155 мільйонів за Uklon — DOU News #190](https://www.youtube.com/watch?v=28MpgIuu9hI)
+
+- Документалка про створення S.T.A.L.K.E.R. 2 https://www.youtube.com/watch?v=8KSH5O1KLSI&t=17s
+- Git-who https://github.com/sinclairtarget/git-who
+
 ## [Signal ігнорує 🇺🇦 правоохоронців | Маск VS Україна | ШІ відмовляється писати код — DOU News #189](https://www.youtube.com/watch?v=g8CrKN_mVzI)
 
 - Xlskubectl https://github.com/learnk8s/xlskubectl
