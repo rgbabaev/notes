@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Кібератака на УЗ 🚆 | Реєстр реєстрів від Мінцифри | Генерація свастики в OpenAI — DOU News #191](https://www.youtube.com/watch?v=P3QYH20ck5g)
+
+- Брелок-ніж Nano Blade https://alpakagear.com/products/nano-blade
+- Вентилятор CW20 https://photo.nitecore.com/product/cw20
+
 ## [Тестування цифрової гривні | ШІ-коментарі в Instagram | $155 мільйонів за Uklon — DOU News #190](https://www.youtube.com/watch?v=28MpgIuu9hI)
 
 - Документалка про створення S.T.A.L.K.E.R. 2 https://www.youtube.com/watch?v=8KSH5O1KLSI&t=17s
