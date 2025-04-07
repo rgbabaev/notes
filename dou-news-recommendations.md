@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Витік документів 🇺🇦 | Удар тарифів Трампа по геймдеву | Скасування обмежень НБУ — DOU News #192](https://www.youtube.com/watch?v=JBiqs_cwMgM)
+
+- Hand Mirror https://handmirror.app/
+- AI 2027 https://ai-2027.com/
+
 ## [Кібератака на УЗ 🚆 | Реєстр реєстрів від Мінцифри | Генерація свастики в OpenAI — DOU News #191](https://www.youtube.com/watch?v=P3QYH20ck5g)
 
 - Брелок-ніж Nano Blade https://alpakagear.com/products/nano-blade
