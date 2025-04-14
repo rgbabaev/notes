@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Київстару відмовили | Revolut не реєструє користувачів | ІТ-ФОПи закриваються — DOU News #193](https://www.youtube.com/watch?v=OPIy06vmuu4)
+
+- Asset | State of IaC Report 2025​ https://www.firefly.ai/asset-state-of-iac-report-2025
+- Найкращі розробники, яких я знав https://endler.dev/2025/best-programmers/
+
 ## [Витік документів 🇺🇦 | Удар тарифів Трампа по геймдеву | Скасування обмежень НБУ — DOU News #192](https://www.youtube.com/watch?v=JBiqs_cwMgM)
 
 - Hand Mirror https://handmirror.app/
