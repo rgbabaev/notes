@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Закон про кібербезпеку | Часткові скасування тарифів | ШІ, що розуміє мову дельфінів — DOU News #194](https://www.youtube.com/watch?v=yNv4-ONsAaU)
+
+- Lenny's Newsletter https://www.lennysnewsletter.com/p/announcing-the-greatest-product-bundle
+- Blue Prince https://www.theverge.com/games-review/647451/blue-prince-review-architectural-roguelike-balatro
+
 ## [Київстару відмовили | Revolut не реєструє користувачів | ІТ-ФОПи закриваються — DOU News #193](https://www.youtube.com/watch?v=OPIy06vmuu4)
 
 - Asset | State of IaC Report 2025​ https://www.firefly.ai/asset-state-of-iac-report-2025
