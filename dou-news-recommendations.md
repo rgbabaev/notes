@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Вірус в армії рф | Демпінг ШІ-ринку | Збій у "Дії" та "Новій пошті" — DOU News #195](https://www.youtube.com/watch?v=53gb4O0ptVc)
+
+- Гра Which Year https://whichyr.com/
+- У GTA San Andreas "ожив" двадцятирічний баг https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/
+
 ## [Закон про кібербезпеку | Часткові скасування тарифів | ШІ, що розуміє мову дельфінів — DOU News #194](https://www.youtube.com/watch?v=yNv4-ONsAaU)
 
 - Lenny's Newsletter https://www.lennysnewsletter.com/p/announcing-the-greatest-product-bundle
