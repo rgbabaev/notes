@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Експорт 🇺🇦 військової ІТ-системи в НАТО | Звільнення айтівців | Проблеми в Apple — DOU News #196](https://www.youtube.com/watch?v=7TXTK04wORg)
+
+- The Obscure System That Syncs All The World’s Clocks https://www.youtube.com/watch?v=CwZW0CO7F-g
+- Як люди насправді використовують генеративний ШІ https://hbr.org/2025/04/how-people-are-really-using-gen-ai-in-2025
+
 ## [Вірус в армії рф | Демпінг ШІ-ринку | Збій у "Дії" та "Новій пошті" — DOU News #195](https://www.youtube.com/watch?v=53gb4O0ptVc)
 
 - Гра Which Year https://whichyr.com/
