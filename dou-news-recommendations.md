@@ -2,6 +2,12 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Пошук роботи став довшим | ШІ вбиває інтернет | Signal Трампа зламали — DOU News #197](https://www.youtube.com/watch?v=SyDUTHMjmKg)
+
+- I'd rather read the prompt https://claytonwramsey.com/blog/prompt/
+- Pad.ws https://pad.ws/
+- Code Cafe https://codecafe.app/
+
 ## [Експорт 🇺🇦 військової ІТ-системи в НАТО | Звільнення айтівців | Проблеми в Apple — DOU News #196](https://www.youtube.com/watch?v=7TXTK04wORg)
 
 - The Obscure System That Syncs All The World’s Clocks https://www.youtube.com/watch?v=CwZW0CO7F-g
