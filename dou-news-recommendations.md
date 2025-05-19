@@ -8,6 +8,11 @@
 - Pad.ws https://pad.ws/
 - Code Cafe https://codecafe.app/
 
+## [Лідів скорочують | Microsoft намагається уникнути штрафів | OpenAI випустили Codex — DOU News #198](https://www.youtube.com/watch?v=CLg1-3T0Sr8)
+
+- Cursor – Selecting Models https://docs.cursor.com/guides/selecting-models#2-task-type
+- Internet Roadtrip https://neal.fun/internet-roadtrip/
+
 ## [Експорт 🇺🇦 військової ІТ-системи в НАТО | Звільнення айтівців | Проблеми в Apple — DOU News #196](https://www.youtube.com/watch?v=7TXTK04wORg)
 
 - The Obscure System That Syncs All The World’s Clocks https://www.youtube.com/watch?v=CwZW0CO7F-g
