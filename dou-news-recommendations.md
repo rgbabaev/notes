@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Claude шантажував інженера | В «Дію» додадуть платні послуги | 1С заборонять – DOU News #199](https://www.youtube.com/watch?v=CGRJlhE1Cww)
+
+- Have I Been Pwned https://haveibeenpwned.com/
+- From: Steve Jobs. "Great idea, thank you." https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html
+
 ## [Пошук роботи став довшим | ШІ вбиває інтернет | Signal Трампа зламали — DOU News #197](https://www.youtube.com/watch?v=SyDUTHMjmKg)
 
 - I'd rather read the prompt https://claytonwramsey.com/blog/prompt/
