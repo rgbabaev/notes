@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Скорочення в Мінцифри | Нові правила бронювання | Примус до використання ШІ — DOU News #200](https://www.youtube.com/watch?v=SsPHbtybrRI)
+
+- Read-it-later app Pocket https://techcrunch.com/2025/05/27/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/
+- n8n https://github.com/n8n-io/n8n
+
 ## [Claude шантажував інженера | В «Дію» додадуть платні послуги | 1С заборонять – DOU News #199](https://www.youtube.com/watch?v=CGRJlhE1Cww)
 
 - Have I Been Pwned https://haveibeenpwned.com/
