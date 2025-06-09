@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Мільярдні збитки Apple | Copilot в Viber | Ймовірні скорочення в Playtika — DOU News #201](https://www.youtube.com/watch?v=E-0RDXGXCuE)
+
+- Claire Obscure https://store.steampowered.com/app/1903340/Clair_Obscur_Expedition_33/
+- Giorgio GarofaloQuarkdown​ https://quarkdown.com/
+
 ## [Скорочення в Мінцифри | Нові правила бронювання | Примус до використання ШІ — DOU News #200](https://www.youtube.com/watch?v=SsPHbtybrRI)
 
 - Read-it-later app Pocket https://techcrunch.com/2025/05/27/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/
