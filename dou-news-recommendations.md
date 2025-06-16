@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Meta AI — катастрофа приватності | Штрафи в Резерв+ | Угода OpenAI з Google — DOU News #202](https://www.youtube.com/watch?v=lI-Lsi2Qj5U)
+
+- chatterbox https://github.com/resemble-ai/chatterbox
+- If the Moon were only 1 pixel https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
+
 ## [Мільярдні збитки Apple | Copilot в Viber | Ймовірні скорочення в Playtika — DOU News #201](https://www.youtube.com/watch?v=E-0RDXGXCuE)
 
 - Claire Obscure https://store.steampowered.com/app/1903340/Clair_Obscur_Expedition_33/
