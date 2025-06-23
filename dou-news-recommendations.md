@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Скасування податків для ФОПів | Викрадення $90 млн | Альтман проти Microsoft — DOU News #203](https://www.youtube.com/watch?v=qYMYvYQbn-Q)
+
+- hurl https://github.com/Orange-OpenSource/hurl?tab=readme-ov-file
+- Виступ Андрея Карпати https://www.youtube.com/watch?v=LCEmiRjPEtQ
+
 ## [Meta AI — катастрофа приватності | Штрафи в Резерв+ | Угода OpenAI з Google — DOU News #202](https://www.youtube.com/watch?v=lI-Lsi2Qj5U)
 
 - chatterbox https://github.com/resemble-ai/chatterbox
