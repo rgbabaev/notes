@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Блокування спам-дзвінків | Підтримка Android у Swift | Кібератака на Cloudflare — DOU News #204](https://www.youtube.com/watch?v=p6Zq5tOKBU8)
+
+- Механічний годинник: вигляд у розібраному вигляді https://fellerts.no/projects/epoch.html
+- Трансформація міст у Google Earth крізь час https://blog.google/products/earth/earth-20-years-city-imagery-transforms/
+
 ## [Скасування податків для ФОПів | Викрадення $90 млн | Альтман проти Microsoft — DOU News #203](https://www.youtube.com/watch?v=qYMYvYQbn-Q)
 
 - hurl https://github.com/Orange-OpenSource/hurl?tab=readme-ov-file
