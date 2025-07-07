@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Заруба між Альтманом та Цукербергом | Вебверсія Cursor | Платний парсинг сайтів — DOU News #205](https://www.youtube.com/watch?v=BFlkKVv2MYo)
+
+- Claude Code: Best practices https://www.anthropic.com/engineering/claude-code-best-practices#c-use-git-worktrees
+- The CliftonStrengths Top 5 Report https://www.gallup.com/cliftonstrengths/en/512510/cliftonstrengths-top-5-report.aspx
+
 ## [Блокування спам-дзвінків | Підтримка Android у Swift | Кібератака на Cloudflare — DOU News #204](https://www.youtube.com/watch?v=p6Zq5tOKBU8)
 
 - Механічний годинник: вигляд у розібраному вигляді https://fellerts.no/projects/epoch.html
