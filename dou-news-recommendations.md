@@ -2,6 +2,13 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Шалений тиждень для Grok | Конкуренція X та Threads | ШІ сповільнює розробників — DOU News #206](https://www.youtube.com/watch?v=lm5-Aolliyc)
+
+- Стаття про Figma (у 144 випуску) та поради Жені з усіх випусків https://dou.ua/forums/topic/48369/
+- Що під капотом Claude Code https://pierce.dev/notes/under-the-hood-of-claude-code/
+- Сайт Omakub — проєкт, який створює готове, налаштоване середовище на базі Ubuntu https://omakub.org/
+- Сайт Omarchy — проєкт, який пропонує готове налаштування на базі Arch Linux і віконного менеджера Hyprland https://omarchy.org/
+
 ## [Заруба між Альтманом та Цукербергом | Вебверсія Cursor | Платний парсинг сайтів — DOU News #205](https://www.youtube.com/watch?v=BFlkKVv2MYo)
 
 - Claude Code: Best practices https://www.anthropic.com/engineering/claude-code-best-practices#c-use-git-worktrees
