@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Злам російського виробника дронів | Зарплати QA | Звільнення в Amazon — DOU News #207](https://www.youtube.com/watch?v=xOCO3_-FE6I)
+
+- Clippy — інструмент для терміналу, який дозволяє керувати буфером обміну https://github.com/neilberkman/clippy?_bhlid=3bf4c788450e9e8e2d0e89ef3cf31f2804dbd042
+- Reflections on OpenAI https://calv.info/openai-reflections#footnote-fnref-5
+
 ## [Шалений тиждень для Grok | Конкуренція X та Threads | ШІ сповільнює розробників — DOU News #206](https://www.youtube.com/watch?v=lm5-Aolliyc)
 
 - Стаття про Figma (у 144 випуску) та поради Жені з усіх випусків https://dou.ua/forums/topic/48369/
