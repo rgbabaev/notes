@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Зарплати менеджерів та аналітиків | Падіння Starlink | Нова посада Оксани Ферчук — DOU News #208](https://www.youtube.com/watch?v=90PmpqfnIig)
+
+- Пост у блозі Патріка Коллісона “Fast” https://patrickcollison.com/fast
+- Програма, що дозволяє перетворити трекпад на ваги https://github.com/KrishKrosh/TrackWeight
+
 ## [Злам російського виробника дронів | Зарплати QA | Звільнення в Amazon — DOU News #207](https://www.youtube.com/watch?v=xOCO3_-FE6I)
 
 - Clippy — інструмент для терміналу, який дозволяє керувати буфером обміну https://github.com/neilberkman/clippy?_bhlid=3bf4c788450e9e8e2d0e89ef3cf31f2804dbd042
