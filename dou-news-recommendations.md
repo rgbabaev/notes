@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Зарплати DevOps | Падіння довіри до ШІ | Вихід Figma на IPO — DOU News #209](https://www.youtube.com/watch?v=jHmGAqLwhtU)
+
+- AgentGuard - інструмент для контролю витрат LLM/AI‑агентів https://github.com/dipampaul17/AgentGuard
+- pr-quiz - GitHub Action, що використовує ШІ для створення вікторини на основі ваших pull requests https://github.com/dkamm/pr-quiz
+
 ## [Зарплати менеджерів та аналітиків | Падіння Starlink | Нова посада Оксани Ферчук — DOU News #208](https://www.youtube.com/watch?v=90PmpqfnIig)
 
 - Пост у блозі Патріка Коллісона “Fast” https://patrickcollison.com/fast
