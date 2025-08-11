@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [GPT-5 вже тут! | Вакансій вистачить всім | «Work-life balance — міф» — DOU News #210](https://www.youtube.com/watch?v=aH11ecc3V_I)
+
+- Як працюють кампілятори https://www.youtube.com/watch?v=XJC5WB2Bwrc
+- Наймайте людей, яким не всеодно https://alexw.substack.com/p/hire
+
 ## [Зарплати DevOps | Падіння довіри до ШІ | Вихід Figma на IPO — DOU News #209](https://www.youtube.com/watch?v=jHmGAqLwhtU)
 
 - AgentGuard - інструмент для контролю витрат LLM/AI‑агентів https://github.com/dipampaul17/AgentGuard
