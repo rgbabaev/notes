@@ -2,6 +2,12 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Sony пішла з рф | Перше ІРО 🇺🇦 компанії | Microsoft повертається в офіси — DOU News #211](https://www.youtube.com/watch?v=r1tVSWfBLhM)
+
+- Серіал “Andor”
+- Стаття “Everything I know about good system design​” https://www.seangoedecke.com/good-system-design/
+- Issue #3382​ https://github.com/anthropics/claude-code/issues/3382
+
 ## [GPT-5 вже тут! | Вакансій вистачить всім | «Work-life balance — міф» — DOU News #210](https://www.youtube.com/watch?v=aH11ecc3V_I)
 
 - Як працюють кампілятори https://www.youtube.com/watch?v=XJC5WB2Bwrc
