@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [ШІ-бульбашка лускає | «е-ТЦК» | Білий Дім в TikTok | Ціни на нову Call of Duty — DOU News #212](https://www.youtube.com/watch?v=Jv-Pul-wBYE)
+
+- Сервіс-агрегатор з Reddit https://gummysearch.com/
+- Сайт Agents.md https://agents.md/#examples
+
 ## [Sony пішла з рф | Перше ІРО 🇺🇦 компанії | Microsoft повертається в офіси — DOU News #211](https://www.youtube.com/watch?v=r1tVSWfBLhM)
 
 - Серіал “Andor”
