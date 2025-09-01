@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Команда 🇺🇦 LLM | DOU Day Picnic 2025 | Возняк вже не їде в росію — DOU News #213](https://www.youtube.com/watch?v=XG0v_MAV0ys)
+
+- Стаття про AWS Lambda https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html
+- Стаття про OpenAI та Anthropic https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/
+
 ## [ШІ-бульбашка лускає | «е-ТЦК» | Білий Дім в TikTok | Ціни на нову Call of Duty — DOU News #212](https://www.youtube.com/watch?v=Jv-Pul-wBYE)
 
 - Сервіс-агрегатор з Reddit https://gummysearch.com/
