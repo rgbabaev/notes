@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Цифровий офіцер | Факультет дронів у КАІ | Atlassian купує Arc — DOU News #214](https://www.youtube.com/watch?v=hgG8mY8LS84)
+
+- BTOP++ https://github.com/aristocratos/btop
+- Стаття https://thedailywtf.com/articles/the-therac-25-incident
+
 ## [Команда 🇺🇦 LLM | DOU Day Picnic 2025 | Возняк вже не їде в росію — DOU News #213](https://www.youtube.com/watch?v=XG0v_MAV0ys)
 
 - Стаття про AWS Lambda https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html
