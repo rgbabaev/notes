@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Виробників дронів бронюють | ШІ вже член уряду | Perplexity роздають Pro-підписку — DOU News #215](https://www.youtube.com/watch?v=lWUeEYUbots)
+
+- PostHog https://posthog.com/
+- Стаття https://iamvishnu.com/posts/utf8-is-brilliant-design
+
 ## [Цифровий офіцер | Факультет дронів у КАІ | Atlassian купує Arc — DOU News #214](https://www.youtube.com/watch?v=hgG8mY8LS84)
 
 - BTOP++ https://github.com/aristocratos/btop
