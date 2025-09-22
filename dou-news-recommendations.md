@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Портрет айтівця 2025 | Реклама вже на холодильниках | Презентація Meta — DOU News #216](https://www.youtube.com/watch?v=rHb4zI-IWfE)
+
+- Пошук API https://parallel.ai/
+- Гра https://gisnep.com/doomscroll/
+
 ## [Виробників дронів бронюють | ШІ вже член уряду | Perplexity роздають Pro-підписку — DOU News #215](https://www.youtube.com/watch?v=lWUeEYUbots)
 
 - PostHog https://posthog.com/
