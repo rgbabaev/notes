@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Чи був «злив» даних з «Дії» | Нові блокування для росіян | Непроханий Vibes від Meta — DOU News #217](https://www.youtube.com/watch?v=pntx8StorzM)
+
+- База знань https://github.com/mtdvio/every-programmer-should-know
+- Карта світлового забруднення https://www.lightpollutionmap.info/#zoom=7.31&lat=50.6380&lon=31.8436&state=eyJiYXNlbWFwIjoiTGF5ZXJCaW5nUm9hZCIsIm92ZXJsYXkiOiJ3YV8yMDE1Iiwib3ZlcmxheWNvbG9yIjpmYWxzZSwib3ZlcmxheW9wYWNpdHkiOiI2MCIsImZlYXR1cmVzb3BhY2l0eSI6Ijg1In0=
+
 ## [Портрет айтівця 2025 | Реклама вже на холодильниках | Презентація Meta — DOU News #216](https://www.youtube.com/watch?v=rHb4zI-IWfE)
 
 - Пошук API https://parallel.ai/
