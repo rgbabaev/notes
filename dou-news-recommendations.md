@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Кількість вакансій росте | Зміни в Spotify | Найкращі школи для ІТ — DOU News #218](https://www.youtube.com/watch?v=muBFqilX-fs)
+
+- Скрипт https://gist.github.com/tkafka/e3eb63a5ec448e9be6701bfd1f1b1e58?_bhlid=7c5a45b233db941603a13617ad0484cd7f867704
+- Рішення https://immich.app/
+
 ## [Чи був «злив» даних з «Дії» | Нові блокування для росіян | Непроханий Vibes від Meta — DOU News #217](https://www.youtube.com/watch?v=pntx8StorzM)
 
 - База знань https://github.com/mtdvio/every-programmer-should-know
