@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Новий український єдиноріг | Ворожий софт | Оновлення в ChatGPT — DOU News #219](https://www.youtube.com/watch?v=JJHxncWnytw)
+
+- Conductor https://conductor.build/
+- Стаття https://www.wired.com/story/how-to-use-a-password-manager-to-share-your-logins-after-you-die/
+
 ## [Кількість вакансій росте | Зміни в Spotify | Найкращі школи для ІТ — DOU News #218](https://www.youtube.com/watch?v=muBFqilX-fs)
 
 - Скрипт https://gist.github.com/tkafka/e3eb63a5ec448e9be6701bfd1f1b1e58?_bhlid=7c5a45b233db941603a13617ad0484cd7f867704
