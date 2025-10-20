@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Злочинці в Дії | Лиmonoманія | Прориви SpaceX — DOU News #220](https://www.youtube.com/watch?v=7v9hA1XGxQw)
+
+- Відео Андрея Карпати https://www.youtube.com/watch?v=lXUZvyajciY&t=659s
+- Статтю про крах якості ПЗ https://techtrenches.substack.com/p/the-great-software-quality-collapse
+
 ## [Новий український єдиноріг | Ворожий софт | Оновлення в ChatGPT — DOU News #219](https://www.youtube.com/watch?v=JJHxncWnytw)
 
 - Conductor https://conductor.build/
