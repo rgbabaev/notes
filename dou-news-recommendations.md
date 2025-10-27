@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Зрада Electronic Arts | Глобальний збій AWS | ШІ-браузери — DOU News #221](https://www.youtube.com/watch?v=LtgY2CQfCLU)
+
+- Застосунок Yaak https://yaak.app/
+- Репозиторій від Андрея Карпати https://simonwillison.net/2025/Oct/13/nanochat/
+
 ## [Злочинці в Дії | Лиmonoманія | Прориви SpaceX — DOU News #220](https://www.youtube.com/watch?v=7v9hA1XGxQw)
 
 - Відео Андрея Карпати https://www.youtube.com/watch?v=lXUZvyajciY&t=659s
