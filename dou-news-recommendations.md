@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Grammarly → Superhuman | «Київстар» і нацбезпека | Grokpedia від Маска — DOU News #222](https://www.youtube.com/watch?v=oxRJx957Zx8)
+
+- Інструмент для Python https://emily.space/posts/251023-uv
+- Графічний інтерфейс для GitHub https://git-fork.com/
+
 ## [Зрада Electronic Arts | Глобальний збій AWS | ШІ-браузери — DOU News #221](https://www.youtube.com/watch?v=LtgY2CQfCLU)
 
 - Застосунок Yaak https://yaak.app/
