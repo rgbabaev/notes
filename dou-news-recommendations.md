@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [GTA 6 відкладається | Витік коду в Apple | ШІ-бурда від Coca-Cola — DOU News #223](https://www.youtube.com/watch?v=yYVEDzou5xc)
+
+- qqqa — LLM для розробників https://github.com/iagooar/qqqa?_bhlid=f93462d921696837c50d3453d739d102daa66535
+- Подкаст про Rolex https://www.acquired.fm/episodes/rolex
+
 ## [Grammarly → Superhuman | «Київстар» і нацбезпека | Grokpedia від Маска — DOU News #222](https://www.youtube.com/watch?v=oxRJx957Zx8)
 
 - Інструмент для Python https://emily.space/posts/251023-uv
