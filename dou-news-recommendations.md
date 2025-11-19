@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [2,3 млрд для Cursor | ШІ пісня у топі | Витік GlobalLogic — DOU News #224](https://www.youtube.com/watch?v=g2UPfbM73Lo)
+
+- Space DJ https://spacedj-363947264390.us-west1.run.app/ 
+- Стаття про роботу в Cursor https://joincolossus.com/article/inside-cursor/
+
 ## [GTA 6 відкладається | Витік коду в Apple | ШІ-бурда від Coca-Cola — DOU News #223](https://www.youtube.com/watch?v=yYVEDzou5xc)
 
 - qqqa — LLM для розробників https://github.com/iagooar/qqqa?_bhlid=f93462d921696837c50d3453d739d102daa66535
