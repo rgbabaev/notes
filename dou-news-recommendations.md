@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Скорочення в ІТ | Новинки Google | Збій Cloudflare — DOU News #225](https://www.youtube.com/watch?v=rPz7guRUqic)
+
+- Серіал “Єдина” 
+- Сервіс Strudel https://strudel.cc/?jq8RmPcjADF9#c2V0Y3BzKDAuNyk7CgpwMTogbigiMCAyIDQgNiA3IDYgNCAyIikKICAuc2NhbGUoIjxjMzptYWpvcj4vMiIpCiAgLnMoInN1cGVyc2F3IikKICAuZGlzdG9ydCgwLjcpCiAgLnN1cGVyaW1wb3NlKCh4KSA9PiB4LmRldHVuZSgiPDAuNT4iKSkKICAubHBlbnYocGVybGluLnNsb3coMykucmFuZ2UoMSwgNCkpCiAgLmxwZihwZXJsaW4uc2xvdygyKS5yYW5nZSgxMDAsIDIwMDApKQogIC5nYWluKDAuMyk7CnAyOiAiPGExIGUyPi84Ii5jbGlwKDAuOCkuc3RydWN0KCJ4KjgiKS5zKCJzdXBlcnNhdyIpLm5vdGUoKTsKLy8gQHZlcnNpb24gMS4y
+
 ## [2,3 млрд для Cursor | ШІ пісня у топі | Витік GlobalLogic — DOU News #224](https://www.youtube.com/watch?v=g2UPfbM73Lo)
 
 - Space DJ https://spacedj-363947264390.us-west1.run.app/ 
