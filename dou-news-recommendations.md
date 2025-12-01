@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Памʼять дорожчає | ChatGPT стає маркетплейсом | Китай запускає космічну місію — DOU News #226](https://www.youtube.com/watch?v=woZfYfINJB8)
+
+- Документальний фільм “The Thinking Game” https://www.engadget.com/ai/you-can-now-watch-a-google-deepmind-doc-for-free-184911659.html?src=rss
+- Клавіатура NuPhy Kick75 https://nuphy.com/products/nuphy-kick75
+
 ## [Скорочення в ІТ | Новинки Google | Збій Cloudflare — DOU News #225](https://www.youtube.com/watch?v=rPz7guRUqic)
 
 - Серіал “Єдина” 
