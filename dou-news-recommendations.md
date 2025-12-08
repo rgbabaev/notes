@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Нові податки для ФОП | Roblox заблокували в росії | Netflix купує Warner Bros. — DOU News #227](https://www.youtube.com/watch?v=qRqO-TGSMX4)
+
+- Мапа українського YouTube https://daodemo.tech/y-map
+- Скріншот інструмент https://shottr.cc/
+
 ## [Памʼять дорожчає | ChatGPT стає маркетплейсом | Китай запускає космічну місію — DOU News #226](https://www.youtube.com/watch?v=woZfYfINJB8)
 
 - Документальний фільм “The Thinking Game” https://www.engadget.com/ai/you-can-now-watch-a-google-deepmind-doc-for-free-184911659.html?src=rss
