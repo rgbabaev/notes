@@ -2,6 +2,15 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Релізи Google та OpenAI | Starlink дає збій | ІТ-ринок 2025 — DOU News #229](https://www.youtube.com/watch?v=QV9TXsXDMVU)
+
+- Стаття: Cloudflare Radar Year Review https://radar.cloudflare.com/year-in-review/2025
+- Книга: «Хроніки Буресвітла», книга 5 — «Вітер і істина»
+- Серіал: «Андор»
+- Фільм: «Ти — космос»
+- Музичний альбом: Arcane S2 OST (honorable mention — «Поле каніфолі»)
+- Музичне відкриття: Клер (на вінілі)
+
 ## [Нові податки для ФОП | Roblox заблокували в росії | Netflix купує Warner Bros. — DOU News #227](https://www.youtube.com/watch?v=qRqO-TGSMX4)
 
 - Мапа українського YouTube https://daodemo.tech/y-map
