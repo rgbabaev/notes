@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Рекордний ІТ-експорт | Нові зміни для ФОПів | ChatGPT Go в Україні — DOU News #231](https://www.youtube.com/watch?v=R8PSYg1wquM)
+
+- Mole https://github.com/tw93/Mole
+- Академія від Anthropic https://anthropic.skilljar.com/claude-code-in-action
+
 ## [Релізи Google та OpenAI | Starlink дає збій | ІТ-ринок 2025 — DOU News #229](https://www.youtube.com/watch?v=QV9TXsXDMVU)
 
 - Стаття: Cloudflare Radar Year Review https://radar.cloudflare.com/year-in-review/2025
