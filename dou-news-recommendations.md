@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Куди йти працювати в ІТ | ChatGPT Health | Який софт заборонили — DOU News #232](https://www.youtube.com/watch?v=zLqUYoilSuI)
+
+- Борис Черний про Claude Code https://x.com/bcherny/status/2007179832300581177
+- Інструментарій PRISM.TOOLS https://blgardner.github.io/prism.tools/
+
 ## [Рекордний ІТ-експорт | Нові зміни для ФОПів | ChatGPT Go в Україні — DOU News #231](https://www.youtube.com/watch?v=R8PSYg1wquM)
 
 - Mole https://github.com/tw93/Mole
