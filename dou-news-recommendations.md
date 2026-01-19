@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Майбутнє Siri та Gemini | Зарплати 2026 | Вайб-кодинг від Торвальдса — DOU News #233](https://www.youtube.com/watch?v=q0F4L5pitng)
+
+- Стаття https://priyavr.at/blog/reversing-most-replayed/
+- Time Travel Map https://app.traveltime.com/
+
 ## [Куди йти працювати в ІТ | ChatGPT Health | Який софт заборонили — DOU News #232](https://www.youtube.com/watch?v=zLqUYoilSuI)
 
 - Борис Черний про Claude Code https://x.com/bcherny/status/2007179832300581177
