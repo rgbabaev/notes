@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Зарплати менеджерів | Preply — новий «єдиноріг» | Революція Siri від Apple — DOU News #234](https://www.youtube.com/watch?v=OoyfTLUoOxk)
+
+- Clawdbot https://clawd.bot/
+- Стаття про Microsoft та OpenAI https://www.geekwire.com/2026/the-microsoft-openai-files-internal-documents-reveal-the-realities-of-ais-defining-alliance/
+
 ## [Майбутнє Siri та Gemini | Зарплати 2026 | Вайб-кодинг від Торвальдса — DOU News #233](https://www.youtube.com/watch?v=q0F4L5pitng)
 
 - Стаття https://priyavr.at/blog/reversing-most-replayed/
