@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Перше інтерв’ю Борнякова | Розкол у Львівському IT Кластері | «Cлопокаліпсис» у 2026 — DOU News #235](https://www.youtube.com/watch?v=SjCpMGi0rSU)
+
+- Moltworker https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/
+- Інтервʼю з CTO Preply https://dou.ua/lenta/interviews/voloshyn-cto-preply-about-plans-2026/
+
 ## [Зарплати менеджерів | Preply — новий «єдиноріг» | Революція Siri від Apple — DOU News #234](https://www.youtube.com/watch?v=OoyfTLUoOxk)
 
 - Clawdbot https://clawd.bot/
