@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Домен за за $70 млн | «Білий список» Starlink | Серіал Baldur's Gate 3 від HBO — DOU News #236](https://www.youtube.com/watch?v=3awDXLRdSQc)
+
+- AI 2027 https://ai-2027.com/
+- «I shipped code I don't understand» https://www.youtube.com/watch?v=eIoohUmYpGI
+
 ## [Перше інтерв’ю Борнякова | Розкол у Львівському IT Кластері | «Cлопокаліпсис» у 2026 — DOU News #235](https://www.youtube.com/watch?v=SjCpMGi0rSU)
 
 - Moltworker https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/
