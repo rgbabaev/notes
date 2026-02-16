@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Anthropic коштує $380 млрд | Шантаж через Starlink | Зарплати DevOps — DOU News #237](https://www.youtube.com/watch?v=r4c0aUu_CHA)
+
+- Analyzecore https://t.me/AnalyzeCore
+- Стаття “ШІ не зменшує роботу, а посилює її” https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it
+
 ## [Домен за за $70 млн | «Білий список» Starlink | Серіал Baldur's Gate 3 від HBO — DOU News #236](https://www.youtube.com/watch?v=3awDXLRdSQc)
 
 - AI 2027 https://ai-2027.com/
