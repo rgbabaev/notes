@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Свої супутники | Українець створив Claude Code | Майбутнє Xbox — DOU News #23](https://www.youtube.com/watch?v=-z9PHr42xL8)
+
+- Інструмент jolt https://github.com/jordond/jolt
+- агент OpenCode https://opencode.ai/
+
 ## [Anthropic коштує $380 млрд | Шантаж через Starlink | Зарплати DevOps — DOU News #237](https://www.youtube.com/watch?v=r4c0aUu_CHA)
 
 - Analyzecore https://t.me/AnalyzeCore
