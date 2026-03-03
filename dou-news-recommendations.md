@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [OpenAI залучає $110 млрд | Заборона Roblox в Україні | Зарплати в Design та HR — DOU News #239](https://www.youtube.com/watch?v=33oZkWyQCRQ)
+
+- Стаття від OpenAI https://openai.com/index/scaling-postgresql/
+- Стаття від Truffle Security Co. https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules
+
 ## [Свої супутники | Українець створив Claude Code | Майбутнє Xbox — DOU News #23](https://www.youtube.com/watch?v=-z9PHr42xL8)
 
 - Інструмент jolt https://github.com/jordond/jolt
