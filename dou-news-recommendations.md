@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Новий єдиноріг UFORCE | Маск програв суд | MacBook Neo та iPhone 17e — DOU News #240](https://www.youtube.com/watch?v=Q3VEqIoYai4)
+
+- MOMENT // SWARM https://dev.moment.com/
+- BullshitBench Explorer https://petergpt.github.io/bullshit-benchmark/viewer/index.html
+
 ## [OpenAI залучає $110 млрд | Заборона Roblox в Україні | Зарплати в Design та HR — DOU News #239](https://www.youtube.com/watch?v=33oZkWyQCRQ)
 
 - Стаття від OpenAI https://openai.com/index/scaling-postgresql/
