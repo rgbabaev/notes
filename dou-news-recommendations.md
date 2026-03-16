@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Зарплата в ШІ-потужностях | Оцінка Cursor — $50 млрд | Бронювання в ІТ — DOU News #241](https://www.youtube.com/watch?v=oHHwHVP7f9c)
+
+- Відео про історію Ренесансу https://www.youtube.com/watch?v=PAIhVfGbREA
+- Гра Slay the Spire II
+
 ## [Новий єдиноріг UFORCE | Маск програв суд | MacBook Neo та iPhone 17e — DOU News #240](https://www.youtube.com/watch?v=Q3VEqIoYai4)
 
 - MOMENT // SWARM https://dev.moment.com/
