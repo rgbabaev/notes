@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [OpenAI купує Astral | Знову про ПДВ для ФОП | Swarmer на IPO — DOU News #242](https://www.youtube.com/watch?v=Wxx07SHFY74)
+
+- Наукова стаття “Speed at the Cost of Quality” https://arxiv.org/pdf/2511.04427
+- Шрифторіз https://chromewebstore.google.com/detail/%D1%88%D1%80%D0%B8%D1%84%D1%82%D0%BE%D1%80%D1%96%D0%B7/feendpladlpdnnkpckjngpmbankmepda
+
 ## [Зарплата в ШІ-потужностях | Оцінка Cursor — $50 млрд | Бронювання в ІТ — DOU News #241](https://www.youtube.com/watch?v=oHHwHVP7f9c)
 
 - Відео про історію Ренесансу https://www.youtube.com/watch?v=PAIhVfGbREA
