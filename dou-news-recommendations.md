@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+##[AGI вже тут | Тисячі IT-посад у ЗСУ | OpenAI закриває Sora — DOU News #243](https://www.youtube.com/watch?v=0s-s4QRAUvw)
+
+- Ресурс Publish Markdown https://flowershow.app/
+- Ресурс Reclaim AI https://reclaim.ai/
+
 ## [OpenAI купує Astral | Знову про ПДВ для ФОП | Swarmer на IPO — DOU News #242](https://www.youtube.com/watch?v=Wxx07SHFY74)
 
 - Наукова стаття “Speed at the Cost of Quality” https://arxiv.org/pdf/2511.04427
