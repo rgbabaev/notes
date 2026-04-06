@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+##[Витік коду Claude Code | SpaceX виходить на IPO | NASA повертається на Місяць — DOU News #244](https://www.youtube.com/watch?v=uUzbr1DnRsU)
+
+- Artemis II Live Timeline Tracker https://www.sunnywingsvirtual.com/artemis2/timeline.html 
+- Твіт Андрея Карпати https://x.com/karpathy/status/2039805659525644595
+
 ##[AGI вже тут | Тисячі IT-посад у ЗСУ | OpenAI закриває Sora — DOU News #243](https://www.youtube.com/watch?v=0s-s4QRAUvw)
 
 - Ресурс Publish Markdown https://flowershow.app/
