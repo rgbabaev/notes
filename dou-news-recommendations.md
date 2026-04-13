@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+##[$285 млн зникло за 12 хвилин | OpenAI обмежує релізи | Іран погрожує Stargate — DOU News #245](https://www.youtube.com/watch?v=RASeWvu_8P4)
+
+- Мапа Середзем'я https://middle-earth-interactive-map.web.app/
+- Розширений пошук YouTube https://playlists.at/youtube/search/
+
 ##[Витік коду Claude Code | SpaceX виходить на IPO | NASA повертається на Місяць — DOU News #244](https://www.youtube.com/watch?v=uUzbr1DnRsU)
 
 - Artemis II Live Timeline Tracker https://www.sunnywingsvirtual.com/artemis2/timeline.html 
