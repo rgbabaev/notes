@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+##[Загроза світовому інтернету | Оновлення Claude | ШІ-двійники — DOU News #246](https://www.youtube.com/watch?v=oqLnBcJGiDU)
+
+- Gemini 3.1 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/
+- Айзек Азімов https://hex.ooo/library/last_question.html
+
 ##[$285 млн зникло за 12 хвилин | OpenAI обмежує релізи | Іран погрожує Stargate — DOU News #245](https://www.youtube.com/watch?v=RASeWvu_8P4)
 
 - Мапа Середзем'я https://middle-earth-interactive-map.web.app/
