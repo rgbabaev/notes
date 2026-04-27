@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+##[Тім Кук залишає Apple | OpenAI випустили GPT-5.5 | SpaceX купує Cursor — DOU News #247](https://www.youtube.com/watch?v=s5N5079boUY)
+
+- The Procrastination Matrix https://waitbutwhy.com/2015/03/procrastination-matrix.html
+- Laws of Software Engineering https://lawsofsoftwareengineering.com/
+
 ##[Загроза світовому інтернету | Оновлення Claude | ШІ-двійники — DOU News #246](https://www.youtube.com/watch?v=oqLnBcJGiDU)
 
 - Gemini 3.1 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/
