@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+##[Угода Google та Пентагону | Діра в Linux з 2017 року | ШІ дорожчий за людей — DOU News #248](https://www.youtube.com/watch?v=2v4i6UVJAPg)
+
+- The gold standard of optimization https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/
+- Zed 1.0 https://zed.dev/blog/zed-1-0
+
 ##[Тім Кук залишає Apple | OpenAI випустили GPT-5.5 | SpaceX купує Cursor — DOU News #247](https://www.youtube.com/watch?v=s5N5079boUY)
 
 - The Procrastination Matrix https://waitbutwhy.com/2015/03/procrastination-matrix.html
