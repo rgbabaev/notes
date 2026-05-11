@@ -2,6 +2,14 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+##[Звільнення о 7 ранку | GPT-5.5 Instant | ШІ-улюбленці в OpenAI Codex — DOU News #249](https://www.youtube.com/watch?v=Ay4DCsImnKk)
+
+- Фільм “Король Річард: Виховуючи чемпіонок”
+- Джаз:
+	- https://www.youtube.com/watch?v=z8Dz-IFFFY4
+	- https://www.youtube.com/watch?v=nDA4PbWLGJ0
+	- https://www.youtube.com/watch?v=lpSEXfVFc70
+
 ##[Угода Google та Пентагону | Діра в Linux з 2017 року | ШІ дорожчий за людей — DOU News #248](https://www.youtube.com/watch?v=2v4i6UVJAPg)
 
 - The gold standard of optimization https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/
