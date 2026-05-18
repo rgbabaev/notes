@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+##[ШІ в «Дії» | Cisco звільняє попри надприбутки | Фічі Android 17 — DOU News #250](https://www.youtube.com/watch?v=W7demJkTlQc)
+
+- Стаття про вайб-кодинг та агентну інженерію https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/
+- Канал “AI Engineer” https://www.youtube.com/@aiDotEngineer
+
 ##[Звільнення о 7 ранку | GPT-5.5 Instant | ШІ-улюбленці в OpenAI Codex — DOU News #249](https://www.youtube.com/watch?v=Ay4DCsImnKk)
 
 - Фільм “Король Річард: Виховуючи чемпіонок”
