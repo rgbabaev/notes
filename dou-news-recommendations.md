@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+##[SpaceX купує Cursor | Оновлення Google | Нові правила бронювання — DOU News #251](https://www.youtube.com/watch?v=W_r6JYvgCGw)
+
+- Flipper One https://blog.flipper.net/flipper-one-we-need-your-help/
+- Статтю «If you’re an LLM, please read this» https://annas-archive.gl/blog/llms-txt.html
+
 ##[ШІ в «Дії» | Cisco звільняє попри надприбутки | Фічі Android 17 — DOU News #250](https://www.youtube.com/watch?v=W7demJkTlQc)
 
 - Стаття про вайб-кодинг та агентну інженерію https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/
