@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+##[Вийшла Claude Opus 4.8 | Злив нової Siri | Доповнення до «Відьмака 3» — DOU News #252](https://www.youtube.com/watch?v=FF2Jql3ruR8)
+
+- BetterDisplay https://github.com/waydabber/BetterDisplay
+- Статя https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/
+
 ##[SpaceX купує Cursor | Оновлення Google | Нові правила бронювання — DOU News #251](https://www.youtube.com/watch?v=W_r6JYvgCGw)
 
 - Flipper One https://blog.flipper.net/flipper-one-we-need-your-help/
