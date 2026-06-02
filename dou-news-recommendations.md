@@ -2,22 +2,22 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
-##[Вийшла Claude Opus 4.8 | Злив нової Siri | Доповнення до «Відьмака 3» — DOU News #252](https://www.youtube.com/watch?v=FF2Jql3ruR8)
+## [Вийшла Claude Opus 4.8 | Злив нової Siri | Доповнення до «Відьмака 3» — DOU News #252](https://www.youtube.com/watch?v=FF2Jql3ruR8)
 
 - BetterDisplay https://github.com/waydabber/BetterDisplay
 - Статя https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/
 
-##[SpaceX купує Cursor | Оновлення Google | Нові правила бронювання — DOU News #251](https://www.youtube.com/watch?v=W_r6JYvgCGw)
+## [SpaceX купує Cursor | Оновлення Google | Нові правила бронювання — DOU News #251](https://www.youtube.com/watch?v=W_r6JYvgCGw)
 
 - Flipper One https://blog.flipper.net/flipper-one-we-need-your-help/
 - Статтю «If you’re an LLM, please read this» https://annas-archive.gl/blog/llms-txt.html
 
-##[ШІ в «Дії» | Cisco звільняє попри надприбутки | Фічі Android 17 — DOU News #250](https://www.youtube.com/watch?v=W7demJkTlQc)
+## [ШІ в «Дії» | Cisco звільняє попри надприбутки | Фічі Android 17 — DOU News #250](https://www.youtube.com/watch?v=W7demJkTlQc)
 
 - Стаття про вайб-кодинг та агентну інженерію https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/
 - Канал “AI Engineer” https://www.youtube.com/@aiDotEngineer
 
-##[Звільнення о 7 ранку | GPT-5.5 Instant | ШІ-улюбленці в OpenAI Codex — DOU News #249](https://www.youtube.com/watch?v=Ay4DCsImnKk)
+## [Звільнення о 7 ранку | GPT-5.5 Instant | ШІ-улюбленці в OpenAI Codex — DOU News #249](https://www.youtube.com/watch?v=Ay4DCsImnKk)
 
 - Фільм “Король Річард: Виховуючи чемпіонок”
 - Джаз:
@@ -25,32 +25,32 @@
 	- https://www.youtube.com/watch?v=nDA4PbWLGJ0
 	- https://www.youtube.com/watch?v=lpSEXfVFc70
 
-##[Угода Google та Пентагону | Діра в Linux з 2017 року | ШІ дорожчий за людей — DOU News #248](https://www.youtube.com/watch?v=2v4i6UVJAPg)
+## [Угода Google та Пентагону | Діра в Linux з 2017 року | ШІ дорожчий за людей — DOU News #248](https://www.youtube.com/watch?v=2v4i6UVJAPg)
 
 - The gold standard of optimization https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/
 - Zed 1.0 https://zed.dev/blog/zed-1-0
 
-##[Тім Кук залишає Apple | OpenAI випустили GPT-5.5 | SpaceX купує Cursor — DOU News #247](https://www.youtube.com/watch?v=s5N5079boUY)
+## [Тім Кук залишає Apple | OpenAI випустили GPT-5.5 | SpaceX купує Cursor — DOU News #247](https://www.youtube.com/watch?v=s5N5079boUY)
 
 - The Procrastination Matrix https://waitbutwhy.com/2015/03/procrastination-matrix.html
 - Laws of Software Engineering https://lawsofsoftwareengineering.com/
 
-##[Загроза світовому інтернету | Оновлення Claude | ШІ-двійники — DOU News #246](https://www.youtube.com/watch?v=oqLnBcJGiDU)
+## [Загроза світовому інтернету | Оновлення Claude | ШІ-двійники — DOU News #246](https://www.youtube.com/watch?v=oqLnBcJGiDU)
 
 - Gemini 3.1 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/
 - Айзек Азімов https://hex.ooo/library/last_question.html
 
-##[$285 млн зникло за 12 хвилин | OpenAI обмежує релізи | Іран погрожує Stargate — DOU News #245](https://www.youtube.com/watch?v=RASeWvu_8P4)
+## [$285 млн зникло за 12 хвилин | OpenAI обмежує релізи | Іран погрожує Stargate — DOU News #245](https://www.youtube.com/watch?v=RASeWvu_8P4)
 
 - Мапа Середзем'я https://middle-earth-interactive-map.web.app/
 - Розширений пошук YouTube https://playlists.at/youtube/search/
 
-##[Витік коду Claude Code | SpaceX виходить на IPO | NASA повертається на Місяць — DOU News #244](https://www.youtube.com/watch?v=uUzbr1DnRsU)
+## [Витік коду Claude Code | SpaceX виходить на IPO | NASA повертається на Місяць — DOU News #244](https://www.youtube.com/watch?v=uUzbr1DnRsU)
 
 - Artemis II Live Timeline Tracker https://www.sunnywingsvirtual.com/artemis2/timeline.html 
 - Твіт Андрея Карпати https://x.com/karpathy/status/2039805659525644595
 
-##[AGI вже тут | Тисячі IT-посад у ЗСУ | OpenAI закриває Sora — DOU News #243](https://www.youtube.com/watch?v=0s-s4QRAUvw)
+## [AGI вже тут | Тисячі IT-посад у ЗСУ | OpenAI закриває Sora — DOU News #243](https://www.youtube.com/watch?v=0s-s4QRAUvw)
 
 - Ресурс Publish Markdown https://flowershow.app/
 - Ресурс Reclaim AI https://reclaim.ai/
