@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Google платить Маску $920 млн на місяць | ШІ-сапорт Meta дарує акаунти хакерам — DOU News #253](https://www.youtube.com/watch?v=3-OMVW7oV2g)
+
+- Репозиторій 30-days-of-coding — https://github.com/dolgachio/30-days-of-coding
+- Особистий сайт Max Leiter — https://maxleiter.com/blog/weights
+
 ## [Вийшла Claude Opus 4.8 | Злив нової Siri | Доповнення до «Відьмака 3» — DOU News #252](https://www.youtube.com/watch?v=FF2Jql3ruR8)
 
 - BetterDisplay https://github.com/waydabber/BetterDisplay
