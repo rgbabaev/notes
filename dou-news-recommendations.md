@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Хто заробляє $6000 в IT | Нові Claude 5 та національна LLM | Математика на НМТ — DOU News #254](https://www.youtube.com/watch?v=f403xQHF5Bw)
+
+- Гра StonkRider – https://stonkrider.com/
+- Стаття “Nobody Ever Gets Credit for Fixing Problems that Never Happened: Creating and Sustaining Process Improvement” – https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf
+
 ## [Google платить Маску $920 млн на місяць | ШІ-сапорт Meta дарує акаунти хакерам — DOU News #253](https://www.youtube.com/watch?v=3-OMVW7oV2g)
 
 - Репозиторій 30-days-of-coding — https://github.com/dolgachio/30-days-of-coding
