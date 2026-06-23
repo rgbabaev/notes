@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Позов проти Genesis | Midjourney замінить МРТ | SpaceX купує Cursor – DOU News #255](https://www.youtube.com/watch?v=RzMSckVtojE)
+
+- Візуалізація стенфордського дослідження стосунків Love Story https://pudding.cool/2026/06/love-story/
+- Заопенсоршена система контролю версій для великих асетів Lore від Epic Games https://lore.org/#lore-file-locking
+
 ## [Хто заробляє $6000 в IT | Нові Claude 5 та національна LLM | Математика на НМТ — DOU News #254](https://www.youtube.com/watch?v=f403xQHF5Bw)
 
 - Гра StonkRider – https://stonkrider.com/
