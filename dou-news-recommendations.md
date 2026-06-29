@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Apple піднімає ціни | Спільний Claude в Slack | Тренд на Loop Engineering – DOU News #256](https://www.youtube.com/watch?v=qBYjwZKjcos)
+
+- Стаття Едді Османі про концепцію Loop Engineering https://addyosmani.com/blog/loop-engineering/
+- Аудіосеріал про економіку Онліфансу OnlyFantasy на Audible https://www.audible.com/podcast/OnlyFantasy/B0GR1WGGBP
+
 ## [Позов проти Genesis | Midjourney замінить МРТ | SpaceX купує Cursor – DOU News #255](https://www.youtube.com/watch?v=RzMSckVtojE)
 
 - Візуалізація стенфордського дослідження стосунків Love Story https://pudding.cool/2026/06/love-story/
