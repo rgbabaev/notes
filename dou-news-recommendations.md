@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Акції OpenAI для уряду США | Провал закону про ворожий софт | PlayStation без дисків — DOU News #257](https://www.youtube.com/watch?v=1lQ7m5NxtzI)
+
+- Саркастична стаття від інженера про Half-Baked Product https://weli.dev/blog/half-baked-product/
+- Гра Dispatch на PC та консолі https://store.steampowered.com/app/2592160/Dispatch/?l=ukrainian
+
 ## [Apple піднімає ціни | Спільний Claude в Slack | Тренд на Loop Engineering – DOU News #256](https://www.youtube.com/watch?v=qBYjwZKjcos)
 
 - Стаття Едді Османі про концепцію Loop Engineering https://addyosmani.com/blog/loop-engineering/
