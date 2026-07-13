@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [ДБР проти Vyriy | Рекордна конкуренція за роботу в IT | Релізи GPT-5.6 та Grok 4.5 — DOU News #258](https://www.youtube.com/watch?v=B1hHX4tDzuU)
+
+- ШІ-перекладач Lispr.ai https://lispr.ai/
+- Хостинг Cloudflare Drop https://www.cloudflare.com/drop/
+
 ## [Акції OpenAI для уряду США | Провал закону про ворожий софт | PlayStation без дисків — DOU News #257](https://www.youtube.com/watch?v=1lQ7m5NxtzI)
 
 - Саркастична стаття від інженера про Half-Baked Product https://weli.dev/blog/half-baked-product/
