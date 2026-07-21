@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Звільнення Федорова | Зупинка бронювання через Дію | Аналітика зарплат розробників — DOU News #259](https://www.youtube.com/watch?v=_SvFUzLcjzA)
+
+- Утиліта Cable для перевірки кабелів — https://www.whatcable.uk/#install
+- Онлайн-дошка Scribbling Party — https://scribbling.party/
+
 ## [ДБР проти Vyriy | Рекордна конкуренція за роботу в IT | Релізи GPT-5.6 та Grok 4.5 — DOU News #258](https://www.youtube.com/watch?v=B1hHX4tDzuU)
 
 - ШІ-перекладач Lispr.ai https://lispr.ai/
