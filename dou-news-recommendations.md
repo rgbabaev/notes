@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Зарплати QA зростають | OpenAI зламав Hugging Face | 5G вже в Києві — DOU News #260](https://www.youtube.com/watch?v=OvfvY38vnGg)
+
+- Утиліта Hotspot Meter для Mac https://hotspot-meter.loam.sk/
+- Есе «Attention» про складність фокусування https://glyphack.com/attention/
+
 ## [Звільнення Федорова | Зупинка бронювання через Дію | Аналітика зарплат розробників — DOU News #259](https://www.youtube.com/watch?v=_SvFUzLcjzA)
 
 - Утиліта Cable для перевірки кабелів — https://www.whatcable.uk/#install
