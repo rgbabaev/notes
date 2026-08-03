@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Витік чатів з Claude у Google | Скасування DefTech-подій | Суд через PIN-код — DOU News #261](https://www.youtube.com/watch?v=-dDRZKtuPTM)
+
+- Як працює JPEG — https://cgjennings.ca/articles/jpeg-compression/#step-6:-decompression
+- Симуляція алгоритмів ліфтів — https://john.fun/elevators
+
 ## [Зарплати QA зростають | OpenAI зламав Hugging Face | 5G вже в Києві — DOU News #260](https://www.youtube.com/watch?v=OvfvY38vnGg)
 
 - Утиліта Hotspot Meter для Mac https://hotspot-meter.loam.sk/
