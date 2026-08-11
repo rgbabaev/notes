@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Які IT-компанії в топі | Попит на IT серед абітурієнтів | Безлімітна GPT-5.6 Luna — DOU News #262](https://www.youtube.com/watch?v=Ivt-5dIhVZg)
+
+- AI API Gateway від Zuplo https://zuplo.com/ai-gateway
+- Математика Парето в Mario Kart https://www.mayerowitz.io/blog/mario-meets-pareto
+
 ## [Витік чатів з Claude у Google | Скасування DefTech-подій | Суд через PIN-код — DOU News #261](https://www.youtube.com/watch?v=-dDRZKtuPTM)
 
 - Як працює JPEG — https://cgjennings.ca/articles/jpeg-compression/#step-6:-decompression
