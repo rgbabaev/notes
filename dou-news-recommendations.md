@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Військовий облік у Дії | NVIDIA в російській ракеті | Нові ліміти від НБУ — DOU News #263](https://www.youtube.com/watch?v=ltZ9TWyg77E)
+
+- Мапа ShadeMap для розрахунку тіней на місцевості https://shademap.app/@50.41883,30.46775,11.19954z,1786813918424t,0b,0p,0m!1786762051449!1786814440861
+- Інженер розповів як вивчати складні теми за допомогою LLM https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/
+
 ## [Які IT-компанії в топі | Попит на IT серед абітурієнтів | Безлімітна GPT-5.6 Luna — DOU News #262](https://www.youtube.com/watch?v=Ivt-5dIhVZg)
 
 - AI API Gateway від Zuplo https://zuplo.com/ai-gateway
