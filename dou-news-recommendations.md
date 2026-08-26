@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [GitHub впав на 7 годин | Скандал із Binance через донат ЗСУ | Anthropic б’є рекорди — DOU News #264](https://www.youtube.com/watch?v=ElQqFRZWSZY)
+
+- OpenLogi https://openlogi.org/
+- AIDR https://www.rickmanelius.com/p/aidr-ai-didnt-read
+
 ## [Військовий облік у Дії | NVIDIA в російській ракеті | Нові ліміти від НБУ — DOU News #263](https://www.youtube.com/watch?v=ltZ9TWyg77E)
 
 - Мапа ShadeMap для розрахунку тіней на місцевості https://shademap.app/@50.41883,30.46775,11.19954z,1786813918424t,0b,0p,0m!1786762051449!1786814440861
