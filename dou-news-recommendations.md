@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Meta передумала замінювати людей ШІ | Nvidia купує Hugging Face | Cursor без OpenAI — DOU News #265](https://www.youtube.com/watch?v=dHYrpun-XTs)
+
+- Cloudflare зекономила 100 ТБ памʼяті в DNS-кеші https://blog.cloudflare.com/dns-cache-memory-optimization-1111/
+- 12 Factor App: базові принципи для розробки сервісів https://12factor.net/
+
 ## [GitHub впав на 7 годин | Скандал із Binance через донат ЗСУ | Anthropic б’є рекорди — DOU News #264](https://www.youtube.com/watch?v=ElQqFRZWSZY)
 
 - OpenLogi https://openlogi.org/
