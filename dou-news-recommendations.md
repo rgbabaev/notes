@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [GPT-6 Astra вражає | Що по Starlink для дронів | Масові скорочення в Uber — DOU News #266](https://www.youtube.com/watch?v=hXhAydE1vHQ)
+
+- AI 2040 https://ai-2040.com/
+- Any Human Ever https://anyhumanever.com/
+
 ## [Meta передумала замінювати людей ШІ | Nvidia купує Hugging Face | Cursor без OpenAI — DOU News #265](https://www.youtube.com/watch?v=dHYrpun-XTs)
 
 - Cloudflare зекономила 100 ТБ памʼяті в DNS-кеші https://blog.cloudflare.com/dns-cache-memory-optimization-1111/
