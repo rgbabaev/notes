@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [https://www.youtube.com/watch?v=Vdv0QkuIn3c](Claude атакує Україну і як шукати роботу в ІТ після 40 років — DOU News #267)
+
+- Herdr https://herdr.dev/
+- Anthropic Economic Scenarios https://www.anthropic.com/institute/econ-scenarios
+
 ## [GPT-6 Astra вражає | Що по Starlink для дронів | Масові скорочення в Uber — DOU News #266](https://www.youtube.com/watch?v=hXhAydE1vHQ)
 
 - AI 2040 https://ai-2040.com/
