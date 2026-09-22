@@ -2,7 +2,12 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
-## [https://www.youtube.com/watch?v=Vdv0QkuIn3c](Claude атакує Україну і як шукати роботу в ІТ після 40 років — DOU News #267)
+## [Айтівці хочуть емігрувати| Revolut видавав дані шахраям| AI ледь не спричинив війну — DOU News #268](https://www.youtube.com/watch?v=T9P4S6sB5qU)
+
+- Music theory for programmers https://runjs.app/blog/music-theory-for-programmers
+- Map | AI Hero https://www.aihero.dev/learn#get-the-most-out
+
+## [Claude атакує Україну і як шукати роботу в ІТ після 40 років — DOU News #267](https://www.youtube.com/watch?v=Vdv0QkuIn3c)
 
 - Herdr https://herdr.dev/
 - Anthropic Economic Scenarios https://www.anthropic.com/institute/econ-scenarios
