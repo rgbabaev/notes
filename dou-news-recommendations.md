@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Удари по українському телекому, OpenAI для України та Трамп перейменовує ШІ — DOU News #269](https://www.youtube.com/watch?v=9fo4DFwgRJA)
+
+- Rails World https://www.youtube.com/watch?v=vDjW_dRyKXY
+- Функціональна класифікація world models https://drfeifei.substack.com/p/a-functional-taxonomy-of-world-models
+
 ## [Айтівці хочуть емігрувати| Revolut видавав дані шахраям| AI ледь не спричинив війну — DOU News #268](https://www.youtube.com/watch?v=T9P4S6sB5qU)
 
 - Music theory for programmers https://runjs.app/blog/music-theory-for-programmers
