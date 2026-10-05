@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [RAM дорожчає, Apple робить дивну камеру, а Google хоче дата-центр у космосі | DOU News #270](https://www.youtube.com/watch?v=BFhvnd06smo)
+
+- Perfect Slice https://www.perfectslice.fun/
+- Andrej Karpathy https://x.com/karpathy/status/2105819303471976479
+
 ## [Удари по українському телекому, OpenAI для України та Трамп перейменовує ШІ — DOU News #269](https://www.youtube.com/watch?v=9fo4DFwgRJA)
 
 - Rails World https://www.youtube.com/watch?v=vDjW_dRyKXY
