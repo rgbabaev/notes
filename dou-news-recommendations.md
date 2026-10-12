@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Конкуренція в IT зростає | АТБ зламали | Україна б’є по датацентрах РФ — DOU News #271](https://www.youtube.com/watch?v=6zeMYmrbFP0)
+
+- BIGWORDS.PAGE https://bigwords.page/
+- Гаррі Поттер (ілюстроване видання) https://store.ababahalamaha.com.ua/harri-potter-i-napivkrovnyi-prynts-velyke-iliustrovane-vydannia
+
 ## [RAM дорожчає, Apple робить дивну камеру, а Google хоче дата-центр у космосі | DOU News #270](https://www.youtube.com/watch?v=BFhvnd06smo)
 
 - Perfect Slice https://www.perfectslice.fun/
