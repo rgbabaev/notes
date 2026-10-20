@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Бронювання змінюють | Starlink обмежують | AI знайшов тисячі вразливостей — DOU News #272](https://www.youtube.com/watch?v=vd-vvZnmw1E)
+
+- Збір на телевізори для військових корпусу «Хартія»: https://dou.ua/goto/2z1T
+- The Trolley Problem: https://zachlandes.com/trolley-problem/
+
 ## [Конкуренція в IT зростає | АТБ зламали | Україна б’є по датацентрах РФ — DOU News #271](https://www.youtube.com/watch?v=6zeMYmrbFP0)
 
 - BIGWORDS.PAGE https://bigwords.page/
