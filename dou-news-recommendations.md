@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Витік довіри до інтернету | Російський супутник-камікадзе | Кінець BioWare — DOU News #273](https://www.youtube.com/watch?v=NbX3vsk7N_8)
+
+- Holding Up the Internet https://sheets.works/data-viz/holding-up-the-internet
+- 30 Months on the Exponential, in Charts https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts
+
 ## [Бронювання змінюють | Starlink обмежують | AI знайшов тисячі вразливостей — DOU News #272](https://www.youtube.com/watch?v=vd-vvZnmw1E)
 
 - Збір на телевізори для військових корпусу «Хартія»: https://dou.ua/goto/2z1T
