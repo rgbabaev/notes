@@ -2,6 +2,11 @@
 
 [Watch and subscribe](https://www.youtube.com/@DOU_youtube)
 
+## [Україна виходить у космос | Червоний день для AI | Скорочення в IT — DOU News #274](https://www.youtube.com/watch?v=Q7Oh3kTvgK8)
+
+- LocalWiki https://edjefferson.com/localwiki/
+- TreeAlive Atlas https://treealive.com/
+
 ## [Витік довіри до інтернету | Російський супутник-камікадзе | Кінець BioWare — DOU News #273](https://www.youtube.com/watch?v=NbX3vsk7N_8)
 
 - Holding Up the Internet https://sheets.works/data-viz/holding-up-the-internet
